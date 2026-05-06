@@ -1,4 +1,4 @@
-Project Background
+ Project Background
 ***
 
 Elist Electronics, established in 2018, is a global e-commerce company that sells popular electronic products worldwide via its website and mobile app.
